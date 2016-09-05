@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\fvarela\Documents\Blio\POO\IntroJava-master\.metadata\.plugins\org.eclipse.jdt.core
+1278289915.index
